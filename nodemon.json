@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "akshitone-mern",
+    "DB_PASSWORD": "VYyaw5tORmKYsN6U",
+    "DB_NAME": "travelDB",
+    "GOOGLE_API": "AIzaSyBtVv3y4bzZsQ-KttOxh0FcREaHqYvCn_I",
+    "JSON_TOKEN_KEY": "token_key"
+  }
+}
